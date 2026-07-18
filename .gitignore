@@ -1,0 +1,23 @@
+# JavaScript
+node_modules/
+.next/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+
+# Docker volumes
+data/
